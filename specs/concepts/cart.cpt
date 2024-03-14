@@ -1,0 +1,29 @@
+Created by mehmetemin.coskun on 14.03.2024
+
+This is a concept file with following syntax for each concept.
+# Select first interest product and add to cart
+* Click first interst product
+* Click add to cart button
+* Click navigate cart button
+* Click delete button in cart
+* Click delete sure button
+* Click navigate home page
+
+# Select best seller second product and to cart then add one more in cart
+* Click secon best seller product
+* Click add to cart button
+* Click navigate cart button
+* Click add one more product button
+* Click delete button in cart
+* Click delete sure button
+* Click navigate home page
+
+# Select second interest product and navigate to payment screen
+* Click second interest product
+* Click add to cart button
+* Click navigate cart button
+* Click buy button
+* Click back button
+* Click delete button in cart
+* Click delete sure button
+* Click navigate home page

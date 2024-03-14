@@ -1,0 +1,39 @@
+Created by furkan.ozbek on 17.02.2024
+
+This is a concept file with following syntax for each concept.
+
+# Kadın çanta kategorisinde rastgele <markaSayisi> marka seçimi yap
+* Kategoriler butonuna tıkla
+* Kategoriler ekranına gidildiği kontrol et
+* Kadın kategorisine tıkla
+* Aksesuar başlığına kaydır
+* Çanta kategorisine tıkla
+* Markalar seçeneğine tıkla
+* Rastgele <markaSayisi> marka seçimi yap
+
+# Seçimi yapılan markaların ürün sayılarını topla ve kaydet
+* Markaların ürün sayılarını topla ve kaydet
+* Uygula Butonuna Tıkla
+
+# Kaydedilen toplam ürün sayısı Searchbox içerisindeki ürün sayısına eşit mi kontrol et
+* Searchbox içerisindeki ürün sayısını kaydet
+* Kaydedilen toplam ürün sayısı ile eşit mi kontrol et
+
+# Sıralama ölçütünü Çok satılanlar olarak ayarla
+* Sırala butonuna tıkla
+* Çok satılanlar checkboxına tıkla
+
+# Sayfada sıralanan <urunIndex>. ürünün fiyat bilgisini kaydet ve tıkla
+* Sayfada sıralanan <urunIndex>. ürünün fiyat bilgisini kaydet
+* Sayfada sıralanan <urunIndex>. ürüne tıkla
+
+# Kaydedilen Fiyat Ürün sayfasındaki fiyat bilgisi ile karşılaştır
+* Ürün sayfasındaki fiyat bilgisini kaydet
+* Kaydedilen Fiyat bilgisiyle karşılaştır
+
+# Sepete Ekle Butonuna Tıkla ve Login Ekranında olduğunu kontrol et
+* Sepete Ekle Butonuna Tıkla
+* Login Ekranında olduğunu kontrol et
+
+
+
